@@ -23,9 +23,9 @@ Hey {}, my name is {}! if you have any questions about how to use me please give
 I am a group manager bot maintained by  [this person](tg://user?id={}).
 
 My future updates will be put into This Channel - @MarieChechi & My Support Group @InFoTelGroup.
+you can create clone same like me..
 
 Want to add me to your chat? [Click here!](http://telegram.me/Cococola_bot?startgroup=botstart),
-you can create clone same like me..
 
 For more commands click /help...
 
