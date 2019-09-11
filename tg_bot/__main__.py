@@ -24,11 +24,12 @@ im a group manager bot maintained by  [this person](tg://user?id={}).
 
 My future updates will be put into This Channel - @MarieChechi & My Support Group @InFoTelGroup.
 
-For more commands click /help...
-Hey there! My name is Rose - I'm here to help you manage your groups! Hit /help to find out more about how to use me to my full potential.
+This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/TGExplore/Marie-2.0-English),
+you can create clone same like me..
 
-Want to add me to your chat? [Click here!](http://telegram.me/Cococola_bot?startgroup=botstart),
-*Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
+For more commands click /help...
+
+**Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
 
 """
 
