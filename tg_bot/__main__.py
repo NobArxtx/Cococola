@@ -19,15 +19,10 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 Hey {}, my name is {}! if you have any questions about how to use me please give me /help... 
-
-I am a group manager bot maintained by  [Hacktronian](tg://user?id={}).
-
+For Help click /help
+The Manager Of This Bot [Hacktronian](tg://user?id={}).
 Supporter of This Bot @InFoTelGroup
-
 Want to add me to your chat? [Click here!](http://telegram.me/Cococola_bot?startgroup=botstart),
-
-For more commands click /help...
-
 """
 
 HELP_STRINGS = """
