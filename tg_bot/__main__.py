@@ -22,7 +22,8 @@ Hey {}, my name is {}! if you have any questions about how to use me please give
 For Help click /help
 The Manager Of This Bot [Hacktronian](tg://user?id={}).
 Supporter of This Bot @InFoTelGroup
-Want to add me to your chat? [Click here!](http://telegram.me/Cococola_bot?startgroup=botstart),"""
+Want to add me to your chat? [Click here!](http://telegram.me/Cococola_bot?startgroup=botstart),
+This Person is Responsable For AI of this bot [Intellivoid!](https://t.me/Intellivoid),"""
 
 HELP_STRINGS = """
 
