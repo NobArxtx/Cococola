@@ -14,6 +14,8 @@ Join the [news channel](https://t.me/MarieNews) if you just want to stay in the 
 announcements.
 
 Alternatively, [find me on telegram](https://t.me/SonOfLars)! (Keep all support questions in the support chat, where more people can help you.)
+## Deploy Me  
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/NobArxtx/Cococola"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 ## Starting the bot.
 
