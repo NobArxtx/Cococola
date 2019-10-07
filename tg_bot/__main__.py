@@ -20,7 +20,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 Hey {}, my name is {}! if you have any questions about how to use me please give me /help... 
 For Help click /help
-The Manager Of This Bot [卄ɑcкsταrмσท](tg://user?id={}),[SPIDEY](https://t.me/Onlydextor)
+The Manager Of This Bot [卄αcкτrσทiαท](tg://user?id={}),[SPIDEY](https://t.me/Onlydextor)
 Supporter of This Bot @InFoTelGroup
 Want to add me to your chat? [Click here!](http://telegram.me/Cococola_bot?startgroup=botstart)."""
 
