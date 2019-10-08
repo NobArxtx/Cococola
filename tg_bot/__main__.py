@@ -27,8 +27,7 @@ Hey {}, Wishing with respect !  My Name is 匚σcσ匚σℓα∘
   - /help: this message to get your PM….
   - /help <module name>: Information about a MODULE to come to your PM….
   - /donate: Find out more about donating!
-  - /settings:
-  - in PM: To find out what SETTINGS you have set up….
+  - /settings: To find out what SETTINGS you have set up….
   - in a group: If you give it to the group, the settings will be changed in the PM ....
   - Want to add me to your chat? [Click here](http://telegram.me/Cococola_bot?startgroup=botstart)
  
