@@ -18,11 +18,23 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hey {}, my name is {}! if you have any questions about how to use me please give me /help... 
-For Help click /help
-The Manager Of This Bot [卄αcкτrσทiαท](tg://user?id={}),[SPIDEY](https://t.me/Onlydextor)
-Supporter of This Bot @InFoTelGroup
-Want to add me to your chat? [Click here!](http://telegram.me/Cococola_bot?startgroup=botstart)."""
+Hey {}, Wishing with respect !  My Name is 匚σcσ匚σℓα∘
+
+ I am a Group Management Bot on Telegram ... Below is how I can run it ....
+
+ Main available commands:
+  - /start: Start Bot ...
+  - /help: this message to get your PM….
+  - /help <module name>: Information about a MODULE to come to your PM….
+  - /donate: Find out more about donating!
+  - /settings:
+  - in PM: To find out what SETTINGS you have set up….
+  - in a group: If you give it to the group, the settings will be changed in the PM ....
+  - Want to add me to your chat? [Click here](http://telegram.me/Cococola_bot?startgroup=botstart)
+ 
+All of the following commands are / or !  You can use ...
+
+ And the following"""
 
 HELP_STRINGS = """
 
