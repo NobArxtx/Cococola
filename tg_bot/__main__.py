@@ -18,9 +18,9 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hey {}, Wishing with respect !  My Name is 匚σcσ匚σℓα∘
+Hey {}, Wishing with respect !  My Name is AnimeTM Bot
 
- I am a Group Management Bot on Telegram ... Below is how I can run it ....
+ I am a Group Management Bot on Telegram ... 
 
  Main available commands:
   - /start: Start Bot ...
@@ -43,9 +43,7 @@ Hello! my name *{}*.
  - /start: Start the bot...
  - /help: help....
  - /donate: To find out more about donating!
- - /settings:
-   - in PM: To find out what SETTINGS you have set....
-   - in a group:
+ - /settings:Send In Group/Channel to find out what SETTINGS you have set....
 
 {}
 And the following:
@@ -56,7 +54,7 @@ It took lots of work for [My Creator](t.me/SonOfLars) to get me to where I am no
 motivate him to make me even better. All the donation money will go to a better VPS to host me, and/or beer \
 (see his bio!). He's just a poor student, so every little helps!
 There are two ways of paying him; [PayPal](paypal.me/PaulSonOfLars), or [Monzo](monzo.me/paulnionvestergaardlarsen)
-[卄ɑcкsταrмσท](https://t.me/Class_dex),[SPIDEY](https://t.me/Onlydextor)"""
+[VerifyMe](https://t.me/Classes_dex),[SPIDEY](https://t.me/Onlydextor)"""
 
 IMPORTED = {}
 MIGRATEABLE = []
