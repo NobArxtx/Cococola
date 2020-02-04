@@ -29,7 +29,7 @@ Hey {}, Wishing with respect !  My Name is AnimeTM Bot
   - /donate: Find out more about donating!
   - /settings: To find out what SETTINGS you have set up….
   - in a group: If you give it to the group, the settings will be changed in the PM ....
-  - Want to add me to your chat? [Click here](http://telegram.me/Animesirg_bot?startgroup=botstart)
+  - Want to add me to your chat? [Click here](http://telegram.me/MeisNoob_bot?startgroup=botstart)
  
 All of the following commands are / or !  You can use ...
 
