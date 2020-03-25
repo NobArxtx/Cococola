@@ -21,11 +21,11 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "973504374"
+      "value": "973772929"
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "Class_dex"
+      "value": "noobhumesirbot"
     },
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
@@ -41,15 +41,15 @@
     },
     "SUDO_USERS": {
       "description": "A space separated list of user_ids which should be considered sudo users",
-      "value": "973504374 712008424"
+      "value": "973772929 1084066779"
     },
     "SUPPORT_USERS": {
       "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
-      "value": "712008424"
+      "value": "1084066779 973772929"
     },
     "WHITELIST_USERS": {
       "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
-      "value": "973504374 712008424"
+      "value": "1084066779 973772929"
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
@@ -73,7 +73,7 @@
     },
     "BAN_STICKER": {
       "description": "Which sticker to use when banning people. Use https://telegram.dog/ShowJsonBot to get the file_id",
-      "value": "CAADBQADNwEAAjZzSxRZAc49mnFSSAI"
+      "value": "CAACAgEAAxkBAAKETV5v1TT5\_v1rbSkWwBo0tNSm1NW1AAJyAAN3OoBHT8jRVXLmpSMYBA"
     }
   },
   "addons": [
